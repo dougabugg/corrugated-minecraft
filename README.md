@@ -8,3 +8,6 @@ Now, you may say, "What?! Make your own plugin/mod API? Why on EARTH would you w
 tinkering with things, and breaking things, and figuring out how they work. If I have an idea for a mini-game mod, I don't
 want my creativity constrained by "wow, the modding API for `X Y Z` server doesn't make it very easy to implement that".
 Thus, I will take my own path through the woods, bush whacking as I go. That's just how I roll, I guess.
+
+# Get Involved
+Feel free to join [the development discord](https://discord.gg/mJ5H4qNnmG)!
